@@ -1,0 +1,570 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.3f1 (4bef613afd59) revision 4976481'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education; OS build 19042.928; Version 2009; 64bit' Language: 'en' Physical Memory: 16319 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Repositories\2021.1.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Repositories/Monkey Driver
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62425
+Successfully changed project path to: D:/Repositories/Monkey Driver
+D:/Repositories/Monkey Driver
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 32.11 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.3f1 (4bef613afd59)
+[Subsystems] Discovering subsystems at path D:/Repositories/2021.1.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Repositories/Monkey Driver/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 SUPER (ID=0x1e84)
+    Vendor:   NVIDIA
+    VRAM:     8011 MB
+    Driver:   27.21.14.6079
+Initialize mono
+Mono path[0] = 'D:/Repositories/2021.1.3f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Repositories/2021.1.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Repositories/2021.1.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56992
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Repositories/2021.1.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: D:/Repositories/2021.1.3f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.000884 seconds.
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 34.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.748 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000962 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.301 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2190 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.7 MB.
+System memory in use after: 107.8 MB.
+
+Unloading 122 unused Assets to reduce memory usage. Loaded Objects now: 2654.
+Total: 2.488000 ms (FindLiveObjects: 0.262400 ms CreateObjectMapping: 0.242400 ms MarkObjects: 1.851600 ms  DeleteObjects: 0.130400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Models/Monkey.fbx
+  artifactKey: Guid(8b23da5b28a875e47a182fdd0f4b5ae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Monkey.fbx using Guid(8b23da5b28a875e47a182fdd0f4b5ae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '674110e907dd7b097e001e80316d13ad') in 0.122386 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.664716 seconds.
+  path: Assets/Animation/Monkey Animation
+  artifactKey: Guid(4d311d1c37ee0194eab2c48476ec2fb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation using Guid(4d311d1c37ee0194eab2c48476ec2fb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d7a545278fefd2da3e4388d6ae6f167') in 0.005157 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.708834 seconds.
+  path: Assets/Animation/Monkey Animation/Idle
+  artifactKey: Guid(2838f77d2f8ee004e9de9526853eca8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Idle using Guid(2838f77d2f8ee004e9de9526853eca8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfe7332084ee3924ab06c1e6a8c4aa3b') in 0.005502 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.076323 seconds.
+  path: Assets/Animation/Monkey Animation/Idle/Idle.fbx
+  artifactKey: Guid(bd7bd678ce7997d4b8ce9e4a6830b6aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Idle/Idle.fbx using Guid(bd7bd678ce7997d4b8ce9e4a6830b6aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b0d91f5fdc12a7aa3499dbabae193c6') in 0.032864 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.311712 seconds.
+  path: Assets/Animation/Monkey Animation/Idle/Idle.fbx
+  artifactKey: Guid(bd7bd678ce7997d4b8ce9e4a6830b6aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Idle/Idle.fbx using Guid(bd7bd678ce7997d4b8ce9e4a6830b6aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a51bead02287708bb19e84c150822264') in 0.021274 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.960610 seconds.
+  path: Assets/Animation/Monkey Animation/Running
+  artifactKey: Guid(83c7b7b98d87d054383d61cee26d8fdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running using Guid(83c7b7b98d87d054383d61cee26d8fdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab02d5609e481527d704c2ae0f69357a') in 0.005535 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.075873 seconds.
+  path: Assets/Animation/Monkey Animation/Running/Run.fbx
+  artifactKey: Guid(4bff8babb9db0354d8e1f2fb75759d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/Run.fbx using Guid(4bff8babb9db0354d8e1f2fb75759d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5270659f0fb2fbb3212c0e0f6bd5848e') in 0.020262 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Animation/Monkey Animation/Running/Run_Backwards.fbx
+  artifactKey: Guid(cff8629acc216ca46acfec9ec1dbcb0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/Run_Backwards.fbx using Guid(cff8629acc216ca46acfec9ec1dbcb0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e440bd01cc9e4cce5b412bca7e86f46c') in 0.019924 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Animation/Monkey Animation/Running/Strafe_Left.fbx
+  artifactKey: Guid(ec9087614f0fdbf4681a2f457d11f14d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/Strafe_Left.fbx using Guid(ec9087614f0fdbf4681a2f457d11f14d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19334ff0fb12cd9ac600758ed12e83ef') in 0.019735 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Animation/Monkey Animation/Running/Strafe_Right.fbx
+  artifactKey: Guid(326241f7121a092489c2dd2573908ad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/Strafe_Right.fbx using Guid(326241f7121a092489c2dd2573908ad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9821d059cf66f292cfa20a37b4755050') in 0.018966 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Animation/Monkey Animation/Running/Walking_Strut.fbx
+  artifactKey: Guid(65e831c718dcb5d47924eadf19a01ed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/Walking_Strut.fbx using Guid(65e831c718dcb5d47924eadf19a01ed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '433cb3fe65d4715e7b10eb338001ee6c') in 0.021237 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Animation/Monkey Animation/Running/Run_Diagonal.fbx
+  artifactKey: Guid(3a9881bcbb6a9a94ba137bd20e116c32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/Run_Diagonal.fbx using Guid(3a9881bcbb6a9a94ba137bd20e116c32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '366b8516a5d1e75939255fc489d1ef17') in 0.019167 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000923 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.849 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2158 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.3 MB.
+System memory in use after: 123.5 MB.
+
+Unloading 116 unused Assets to reduce memory usage. Loaded Objects now: 2702.
+Total: 2.371600 ms (FindLiveObjects: 0.154700 ms CreateObjectMapping: 0.085500 ms MarkObjects: 2.046400 ms  DeleteObjects: 0.084100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.882323 seconds.
+  path: Assets/Animation/Monkey Animation/Running/Run.fbx
+  artifactKey: Guid(4bff8babb9db0354d8e1f2fb75759d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/Run.fbx using Guid(4bff8babb9db0354d8e1f2fb75759d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bace157aefba2d67ccfa1ae4b83ee51') in 0.068488 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.471705 seconds.
+  path: Assets/Animation/Monkey Animation/Running/Run_Backwards.fbx
+  artifactKey: Guid(cff8629acc216ca46acfec9ec1dbcb0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/Run_Backwards.fbx using Guid(cff8629acc216ca46acfec9ec1dbcb0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '747f791bab425b9fa2eb16e59ee065f0') in 0.023212 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.362267 seconds.
+  path: Assets/Animation/Monkey Animation/Running/Run_Diagonal.fbx
+  artifactKey: Guid(3a9881bcbb6a9a94ba137bd20e116c32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/Run_Diagonal.fbx using Guid(3a9881bcbb6a9a94ba137bd20e116c32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3780667748e7c20f67dea8ce5cec4912') in 0.020020 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Animation/Monkey Animation/Running/Strafe_Left.fbx
+  artifactKey: Guid(ec9087614f0fdbf4681a2f457d11f14d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/Strafe_Left.fbx using Guid(ec9087614f0fdbf4681a2f457d11f14d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c1a9ca97a6b30e950f84d6244657455') in 0.019873 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Animation/Monkey Animation/Running/Strafe_Right.fbx
+  artifactKey: Guid(326241f7121a092489c2dd2573908ad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/Strafe_Right.fbx using Guid(326241f7121a092489c2dd2573908ad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea59836dbc36e32bf50caaf445bf6a7d') in 0.018508 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000522 seconds.
+  path: Assets/Animation/Monkey Animation/Running/Walking_Strut.fbx
+  artifactKey: Guid(65e831c718dcb5d47924eadf19a01ed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/Walking_Strut.fbx using Guid(65e831c718dcb5d47924eadf19a01ed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baebebde11530ac0cb0d492d80c48f30') in 0.019191 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.412527 seconds.
+  path: Assets/Animation/Monkey Animation/Jumping
+  artifactKey: Guid(c01be2f0bc3e5284d8c6f13558ee845e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Jumping using Guid(c01be2f0bc3e5284d8c6f13558ee845e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7e1513d819bbdcc1a56c01c7fc92389') in 0.004567 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.076827 seconds.
+  path: Assets/Animation/Monkey Animation/Jumping/Jump.fbx
+  artifactKey: Guid(b3d5f86751cb7024487a597803c51d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Jumping/Jump.fbx using Guid(b3d5f86751cb7024487a597803c51d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '396a20fb55867793ecea30ab408ba114') in 0.018777 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Animation/Monkey Animation/Jumping/Monkey@Running Jump.fbx
+  artifactKey: Guid(44acff3042b04be4eb859fc701a16608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Jumping/Monkey@Running Jump.fbx using Guid(44acff3042b04be4eb859fc701a16608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '592b417a3576e04b7a9e8be4b985fc32') in 0.019583 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Animation/Monkey Animation/Jumping/Monkey@Jump.fbx
+  artifactKey: Guid(f0f6178dd4264bb4683dfe031851f6fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Jumping/Monkey@Jump.fbx using Guid(f0f6178dd4264bb4683dfe031851f6fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4feeb429d0acb5f84f7f61780ddad462') in 0.018919 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000864 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.841 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2157 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.5 MB.
+System memory in use after: 123.7 MB.
+
+Unloading 116 unused Assets to reduce memory usage. Loaded Objects now: 2706.
+Total: 2.333700 ms (FindLiveObjects: 0.167400 ms CreateObjectMapping: 0.096200 ms MarkObjects: 1.991300 ms  DeleteObjects: 0.077700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 474.739129 seconds.
+  path: Assets/PolygonStarter/Models/Characters.fbx
+  artifactKey: Guid(2dc7b382d25903545b405802eb2198ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonStarter/Models/Characters.fbx using Guid(2dc7b382d25903545b405802eb2198ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ca3dd4f7cb2c1619bc8211fb17019fd') in 0.083627 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000886 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.865 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2157 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.5 MB.
+System memory in use after: 123.7 MB.
+
+Unloading 117 unused Assets to reduce memory usage. Loaded Objects now: 2710.
+Total: 2.456000 ms (FindLiveObjects: 0.202900 ms CreateObjectMapping: 0.117300 ms MarkObjects: 2.046100 ms  DeleteObjects: 0.088300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 447.484851 seconds.
+  path: Assets/Animation/Monkey Animation/Running/Jog Backward Diagonal.fbx
+  artifactKey: Guid(2e63eefc7285e3c4db7a7107d5977213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/Jog Backward Diagonal.fbx using Guid(2e63eefc7285e3c4db7a7107d5977213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92477212be094a3dbb6eb9300907ceb7') in 0.085224 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.462924 seconds.
+  path: Assets/Animation/Monkey Animation/Running/Jog Backward Diagonal (1).fbx
+  artifactKey: Guid(b2202a31324465c4aa58a89b282f089d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/Jog Backward Diagonal (1).fbx using Guid(b2202a31324465c4aa58a89b282f089d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd905920392a857f8f90486c4b6719173') in 0.027850 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.597004 seconds.
+  path: Assets/Animation/Monkey Animation/Running/RunBackLeft.fbx
+  artifactKey: Guid(2e63eefc7285e3c4db7a7107d5977213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/RunBackLeft.fbx using Guid(2e63eefc7285e3c4db7a7107d5977213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ba5c05fc578e53d1cbea181761ef495') in 0.021277 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.377689 seconds.
+  path: Assets/Animation/Monkey Animation/Running/RunBackRight.fbx
+  artifactKey: Guid(b2202a31324465c4aa58a89b282f089d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/RunBackRight.fbx using Guid(b2202a31324465c4aa58a89b282f089d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14d5bf12d54d8d7a4f16d7a3f265615e') in 0.029439 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.921336 seconds.
+  path: Assets/Animation/Monkey Animation/Running/RunBackLeft.fbx
+  artifactKey: Guid(2e63eefc7285e3c4db7a7107d5977213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/RunBackLeft.fbx using Guid(2e63eefc7285e3c4db7a7107d5977213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73016d6466e0327864ce3507518b571c') in 0.022967 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Animation/Monkey Animation/Running/RunBackRight.fbx
+  artifactKey: Guid(b2202a31324465c4aa58a89b282f089d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/RunBackRight.fbx using Guid(b2202a31324465c4aa58a89b282f089d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a17cd99c0de404a8b1cf44780110c6d6') in 0.023002 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.998244 seconds.
+  path: Assets/Animation/Monkey Animation/Running/RunBackLeft.fbx
+  artifactKey: Guid(2e63eefc7285e3c4db7a7107d5977213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/RunBackLeft.fbx using Guid(2e63eefc7285e3c4db7a7107d5977213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96071525a6726362b6312b40799f6bd2') in 0.024021 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.328919 seconds.
+  path: Assets/Animation/Monkey Animation/Running/Walking_Strut.fbx
+  artifactKey: Guid(65e831c718dcb5d47924eadf19a01ed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/Walking_Strut.fbx using Guid(65e831c718dcb5d47924eadf19a01ed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed2c7237a1d3aabf55abf7524535560b') in 0.023432 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.498656 seconds.
+  path: Assets/Animation/Monkey Animation/Running/RunBackRight.fbx
+  artifactKey: Guid(b2202a31324465c4aa58a89b282f089d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/RunBackRight.fbx using Guid(b2202a31324465c4aa58a89b282f089d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef14e3c2f1293f21ffb26590546225dc') in 0.026446 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 59.891018 seconds.
+  path: Assets/Animation/Monkey Animation/Running/Jog Forward Diagonal.fbx
+  artifactKey: Guid(5d7684ef862e66c4c9c126d80076b581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/Jog Forward Diagonal.fbx using Guid(5d7684ef862e66c4c9c126d80076b581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f3f8b20fd55b2952e5c13744fc77a94') in 0.023587 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.003388 seconds.
+  path: Assets/Animation/Monkey Animation/Running/Jog Forward Diagonal (1).fbx
+  artifactKey: Guid(7ac0e11763a9f1640938dddded562c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/Jog Forward Diagonal (1).fbx using Guid(7ac0e11763a9f1640938dddded562c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9f16c273b7d55226007ea2764d84a3a') in 0.026610 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 38.922351 seconds.
+  path: Assets/Animation/Monkey Animation/Running/RunForwardRight.fbx
+  artifactKey: Guid(3a9881bcbb6a9a94ba137bd20e116c32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/RunForwardRight.fbx using Guid(3a9881bcbb6a9a94ba137bd20e116c32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2418b7535ac3e95be66a83ed74dd5f22') in 0.026053 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.258429 seconds.
+  path: Assets/Animation/Monkey Animation/Running/RunForwardLeft.fbx
+  artifactKey: Guid(7ac0e11763a9f1640938dddded562c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/RunForwardLeft.fbx using Guid(7ac0e11763a9f1640938dddded562c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48e1078c8a9c8e17b3c96c4b03dedae1') in 0.019774 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 28.357870 seconds.
+  path: Assets/Animation/Monkey Animation/Running/RunForwardLeft.fbx
+  artifactKey: Guid(7ac0e11763a9f1640938dddded562c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/RunForwardLeft.fbx using Guid(7ac0e11763a9f1640938dddded562c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48269e2abb677e76c1139cf4058bd1a4') in 0.025742 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.853440 seconds.
+  path: Assets/Animation/Monkey Animation/Running/RunForwardLeft.fbx
+  artifactKey: Guid(7ac0e11763a9f1640938dddded562c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/RunForwardLeft.fbx using Guid(7ac0e11763a9f1640938dddded562c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd814fc1f9b71b8742aea3df0542840eb') in 0.024540 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000883 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.921 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2157 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.7 MB.
+System memory in use after: 123.9 MB.
+
+Unloading 116 unused Assets to reduce memory usage. Loaded Objects now: 2714.
+Total: 2.696900 ms (FindLiveObjects: 0.179500 ms CreateObjectMapping: 0.095200 ms MarkObjects: 2.317200 ms  DeleteObjects: 0.103000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 315.153542 seconds.
+  path: Assets/Animation/Monkey Animation/Running/Monkey@Jog Strafe Right.fbx
+  artifactKey: Guid(79dabaf514f26dd43a1e95941bcf1642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/Monkey@Jog Strafe Right.fbx using Guid(79dabaf514f26dd43a1e95941bcf1642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19c8a5a36fcec3bdef650dab2807cd28') in 0.076814 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.000407 seconds.
+  path: Assets/Animation/Monkey Animation/Running/Monkey@Jog Strafe Left.fbx
+  artifactKey: Guid(2c1c46f184bae3741b9ff87bac5948a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/Monkey@Jog Strafe Left.fbx using Guid(2c1c46f184bae3741b9ff87bac5948a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad6bd6e8f7edf2396b86b1cd81f14848') in 0.023501 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25.403444 seconds.
+  path: Assets/Animation/Monkey Animation/Running/StrafeLeft.fbx
+  artifactKey: Guid(2c1c46f184bae3741b9ff87bac5948a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/StrafeLeft.fbx using Guid(2c1c46f184bae3741b9ff87bac5948a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fee0297801e31262db784736ad7fb09f') in 0.023979 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.513081 seconds.
+  path: Assets/Animation/Monkey Animation/Running/StrafeRight.fbx
+  artifactKey: Guid(79dabaf514f26dd43a1e95941bcf1642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/StrafeRight.fbx using Guid(79dabaf514f26dd43a1e95941bcf1642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34ce866dd7f665b63e46db41af1a4940') in 0.023918 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.633518 seconds.
+  path: Assets/Animation/Monkey Animation/Running/StrafeLeft.fbx
+  artifactKey: Guid(2c1c46f184bae3741b9ff87bac5948a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/StrafeLeft.fbx using Guid(2c1c46f184bae3741b9ff87bac5948a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb137136253c71abc0d3d062e5d28caf') in 0.024387 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Animation/Monkey Animation/Running/StrafeRight.fbx
+  artifactKey: Guid(79dabaf514f26dd43a1e95941bcf1642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/StrafeRight.fbx using Guid(79dabaf514f26dd43a1e95941bcf1642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c041bd34101ba13cd5e70b7894992d33') in 0.023800 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.582895 seconds.
+  path: Assets/Animation/Monkey Animation/Running/StrafeLeft.fbx
+  artifactKey: Guid(2c1c46f184bae3741b9ff87bac5948a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/StrafeLeft.fbx using Guid(2c1c46f184bae3741b9ff87bac5948a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c542dfb5f29937548d6b00dee0469e9') in 0.022914 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.733225 seconds.
+  path: Assets/Animation/Monkey Animation/Running/StrafeRight.fbx
+  artifactKey: Guid(79dabaf514f26dd43a1e95941bcf1642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Monkey Animation/Running/StrafeRight.fbx using Guid(79dabaf514f26dd43a1e95941bcf1642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c33417498d09f9004dcd547c417c1e2e') in 0.022094 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001459 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.865 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2157 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.7 MB.
+System memory in use after: 123.9 MB.
+
+Unloading 116 unused Assets to reduce memory usage. Loaded Objects now: 2718.
+Total: 2.241600 ms (FindLiveObjects: 0.181000 ms CreateObjectMapping: 0.105100 ms MarkObjects: 1.866300 ms  DeleteObjects: 0.088100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000891 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.863 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2157 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.7 MB.
+System memory in use after: 124.0 MB.
+
+Unloading 116 unused Assets to reduce memory usage. Loaded Objects now: 2721.
+Total: 2.404100 ms (FindLiveObjects: 0.174600 ms CreateObjectMapping: 0.094300 ms MarkObjects: 2.047300 ms  DeleteObjects: 0.086700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000949 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.951 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2157 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.7 MB.
+System memory in use after: 124.0 MB.
+
+Unloading 116 unused Assets to reduce memory usage. Loaded Objects now: 2724.
+Total: 2.418300 ms (FindLiveObjects: 0.228400 ms CreateObjectMapping: 0.150000 ms MarkObjects: 1.954500 ms  DeleteObjects: 0.084100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000865 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.895 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2157 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.8 MB.
+System memory in use after: 124.0 MB.
+
+Unloading 116 unused Assets to reduce memory usage. Loaded Objects now: 2727.
+Total: 2.380100 ms (FindLiveObjects: 0.172700 ms CreateObjectMapping: 0.099900 ms MarkObjects: 2.024200 ms  DeleteObjects: 0.082500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001046 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.836 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2157 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.8 MB.
+System memory in use after: 124.0 MB.
+
+Unloading 116 unused Assets to reduce memory usage. Loaded Objects now: 2730.
+Total: 2.222400 ms (FindLiveObjects: 0.172100 ms CreateObjectMapping: 0.095600 ms MarkObjects: 1.874300 ms  DeleteObjects: 0.079200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 867.244549 seconds.
+  path: Assets/Prefabs/Monkey.prefab
+  artifactKey: Guid(58622cc4ea14b5f43a2243a7ea7ba1fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Monkey.prefab using Guid(58622cc4ea14b5f43a2243a7ea7ba1fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '487dfa8459dea58f38119bd84ee65fe1') in 0.134997 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Prefabs/SM_Character_Male_01.prefab
+  artifactKey: Guid(5888beadd233f344f9e29ce93e31ee1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/SM_Character_Male_01.prefab using Guid(5888beadd233f344f9e29ce93e31ee1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd592c971487ab3d45b577c47ca68a2b4') in 0.020144 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000849 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.847 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2157 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.9 MB.
+System memory in use after: 124.1 MB.
+
+Unloading 116 unused Assets to reduce memory usage. Loaded Objects now: 2734.
+Total: 2.338700 ms (FindLiveObjects: 0.157600 ms CreateObjectMapping: 0.084900 ms MarkObjects: 2.014400 ms  DeleteObjects: 0.080900 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
