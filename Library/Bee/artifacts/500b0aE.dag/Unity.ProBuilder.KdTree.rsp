@@ -104,6 +104,7 @@
 -define:ENABLE_TILEMAP
 -define:ENABLE_TIMELINE
 -define:ENABLE_LEGACY_INPUT_MANAGER
+-define:UNITY_POST_PROCESSING_STACK_V2
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -r:"D:/Repositories/2021.1.3f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
@@ -307,18 +308,18 @@
 -r:"D:/Repositories/Monkey Driver/Library/PackageCache/com.unity.cinemachine@2.7.3/Runtime/ThirdParty/clipper_library.dll"
 -r:"Library/Bee/artifacts/500b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/500b0aE.dag/UnityEngine.UI.ref.dll"
-"Library/PackageCache/com.unity.probuilder@5.0.1/External/KdTree/KdTreeLib/AssemblyInfo.cs"
-"Library/PackageCache/com.unity.probuilder@5.0.1/External/KdTree/KdTreeLib/HyperRect.cs"
-"Library/PackageCache/com.unity.probuilder@5.0.1/External/KdTree/KdTreeLib/IKdTree.cs"
-"Library/PackageCache/com.unity.probuilder@5.0.1/External/KdTree/KdTreeLib/IPriorityQueue.cs"
-"Library/PackageCache/com.unity.probuilder@5.0.1/External/KdTree/KdTreeLib/KdTree.cs"
-"Library/PackageCache/com.unity.probuilder@5.0.1/External/KdTree/KdTreeLib/KdTreeNode.cs"
-"Library/PackageCache/com.unity.probuilder@5.0.1/External/KdTree/KdTreeLib/Math/DoubleMath.cs"
-"Library/PackageCache/com.unity.probuilder@5.0.1/External/KdTree/KdTreeLib/Math/FloatMath.cs"
-"Library/PackageCache/com.unity.probuilder@5.0.1/External/KdTree/KdTreeLib/Math/ITypeMath.cs"
-"Library/PackageCache/com.unity.probuilder@5.0.1/External/KdTree/KdTreeLib/Math/TypeMath.cs"
-"Library/PackageCache/com.unity.probuilder@5.0.1/External/KdTree/KdTreeLib/NearestNeighbourList.cs"
-"Library/PackageCache/com.unity.probuilder@5.0.1/External/KdTree/KdTreeLib/PriorityQueue.cs"
+"Library/PackageCache/com.unity.probuilder@5.0.3/External/KdTree/KdTreeLib/AssemblyInfo.cs"
+"Library/PackageCache/com.unity.probuilder@5.0.3/External/KdTree/KdTreeLib/HyperRect.cs"
+"Library/PackageCache/com.unity.probuilder@5.0.3/External/KdTree/KdTreeLib/IKdTree.cs"
+"Library/PackageCache/com.unity.probuilder@5.0.3/External/KdTree/KdTreeLib/IPriorityQueue.cs"
+"Library/PackageCache/com.unity.probuilder@5.0.3/External/KdTree/KdTreeLib/KdTree.cs"
+"Library/PackageCache/com.unity.probuilder@5.0.3/External/KdTree/KdTreeLib/KdTreeNode.cs"
+"Library/PackageCache/com.unity.probuilder@5.0.3/External/KdTree/KdTreeLib/Math/DoubleMath.cs"
+"Library/PackageCache/com.unity.probuilder@5.0.3/External/KdTree/KdTreeLib/Math/FloatMath.cs"
+"Library/PackageCache/com.unity.probuilder@5.0.3/External/KdTree/KdTreeLib/Math/ITypeMath.cs"
+"Library/PackageCache/com.unity.probuilder@5.0.3/External/KdTree/KdTreeLib/Math/TypeMath.cs"
+"Library/PackageCache/com.unity.probuilder@5.0.3/External/KdTree/KdTreeLib/NearestNeighbourList.cs"
+"Library/PackageCache/com.unity.probuilder@5.0.3/External/KdTree/KdTreeLib/PriorityQueue.cs"
 -langversion:8.0
 
 /deterministic
